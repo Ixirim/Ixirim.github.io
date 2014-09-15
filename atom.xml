@@ -4,7 +4,7 @@
   <title><![CDATA[7HE NEURON]]></title>
   <link href="http://Ixirim.github.io/atom.xml" rel="self"/>
   <link href="http://Ixirim.github.io/"/>
-  <updated>2014-09-15T23:05:02+08:00</updated>
+  <updated>2014-09-15T23:12:55+08:00</updated>
   <id>http://Ixirim.github.io/</id>
   <author>
     <name><![CDATA[Ixirim]]></name>
@@ -35,7 +35,7 @@
     <link href="http://Ixirim.github.io/blog/2014/09/14/in-the-beginning/"/>
     <updated>2014-09-14T09:35:42+08:00</updated>
     <id>http://Ixirim.github.io/blog/2014/09/14/in-the-beginning</id>
-    <content type="html"><![CDATA[<p>I&rsquo;ve always wanted to write more. This seems like a good way to start. Hopefully I&rsquo;ll be able to write often and document my work while at the same time play around with <a href="http://octopress.org/">Octopress</a>, a static site generator that I&rsquo;m using but I&rsquo;ll talk about the tech behind this site in another post later. I&rsquo;m probably going to try out <a href="https://github.com/natew/obtvse2">Obtvse</a> when I can and see how that&rsquo;ll help with my writing. If you haven&rsquo;t already noticed, I  like <a href="https://www.google.com/design/">Google&rsquo;s Material Design Guidelines</a> and thats what guiding the site&rsquo;s design. The site isn&rsquo;t done yet, there&rsquo;s still some rough edges and I&rsquo;m still coding in some features that&rsquo;ll mostly just help me automate stuff. Automation is really important to me, I&rsquo;m efficient that way (some people say I&rsquo;m just being lazy). So I guess that&rsquo;s it for the opening post. Mind the Lorem Ipsum.</p>
+    <content type="html"><![CDATA[<p>I&rsquo;ve always wanted to write more. This seems like a good way to start. Hopefully I&rsquo;ll be able to write often and document my work while at the same time play around with <a href="http://octopress.org/">Octopress</a>, a static site generator that I&rsquo;m using but I&rsquo;ll talk about the tech behind this site in another post later. I&rsquo;m probably going to try out <a href="https://github.com/natew/obtvse2">Obtvse</a> when I can and see how that&rsquo;ll help with my writing. If you haven&rsquo;t already noticed, I  like <a href="https://www.google.com/design/">Google&rsquo;s Material Design Guidelines</a> and that&rsquo;s what guiding the site&rsquo;s design. The site isn&rsquo;t done yet, there&rsquo;s still some rough edges and I&rsquo;m still coding in some features that&rsquo;ll mostly just help me automate stuff. Automation is really important to me, I&rsquo;m efficient that way (some people say I&rsquo;m just being lazy). So I guess that&rsquo;s it for the opening post. Mind the Lorem Ipsum.</p>
 ]]></content>
   </entry>
   
