@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[7HE NEURON]]></title>
   <link href="http://Ixirim.github.io/atom.xml" rel="self"/>
   <link href="http://Ixirim.github.io/"/>
-  <updated>2014-09-14T08:58:51+08:00</updated>
+  <updated>2014-09-15T23:05:02+08:00</updated>
   <id>http://Ixirim.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ixirim]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Time Is White]]></title>
+    <link href="http://Ixirim.github.io/blog/2014/09/15/time-is-white/"/>
+    <updated>2014-09-15T22:42:11+08:00</updated>
+    <id>http://Ixirim.github.io/blog/2014/09/15/time-is-white</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a feugiat odio, eu vehicula libero. Aliquam commodo non risus ac elementum. Vestibulum eget auctor erat. Morbi sed nisl non dolor ultricies pulvinar. Pellentesque ultrices sollicitudin nunc, id molestie leo mollis vitae. Integer nunc justo, eleifend ac semper vitae, euismod gravida arcu. Quisque faucibus, sem vitae fringilla condimentum, augue ligula imperdiet eros, et placerat elit velit vitae leo.</p>
+
+<p>Nunc at dolor quis elit dignissim consectetur ac vitae sapien. Cras at tortor vel enim blandit aliquet eu tincidunt diam. Donec eu massa in arcu blandit feugiat. Donec massa metus, pulvinar ut dapibus et, feugiat non dolor. Nunc quis pellentesque ex. Integer erat lacus, porttitor non nibh eu, aliquam iaculis urna. Proin vel odio suscipit, tincidunt nunc sit amet, tempus turpis. Praesent vitae justo massa. Donec rhoncus diam ut condimentum dignissim. Quisque rutrum diam enim, quis convallis quam iaculis non. Vivamus bibendum ultricies accumsan. Nulla sed vulputate lorem. Morbi leo nibh, molestie eget placerat ut, commodo vel mauris. Nam lectus nisl, eleifend id mattis vel, hendrerit vel erat. Aliquam nec augue dignissim, aliquam quam faucibus, bibendum nisl. Aliquam auctor arcu quis magna imperdiet, non tincidunt nulla dictum.</p>
+
+<p>Aliquam et hendrerit metus, nec tempus diam. In nec consectetur neque, id tempus est. Nullam aliquam ligula risus, nec laoreet dolor porta in. Mauris quis felis nibh. Cras eleifend suscipit placerat. Vivamus a purus ante. Nullam auctor luctus turpis, sit amet tempor neque. Aliquam quis dui imperdiet, vestibulum quam et, scelerisque dolor.</p>
+
+<p>Duis facilisis volutpat quam, sit amet tempor metus euismod sed. Nullam volutpat vel odio a dignissim. Ut nisi ex, tempus sed fermentum at, congue id purus. Morbi auctor efficitur mattis. Donec lobortis diam et nisi sagittis, ut placerat ipsum mattis. Morbi venenatis viverra luctus. Maecenas ut purus in lectus blandit eleifend. Quisque vitae ultricies justo, eu sodales massa. Nullam ut iaculis nulla. Phasellus velit quam, maximus vel erat non, commodo laoreet est. Sed rutrum volutpat diam, et imperdiet purus suscipit eu. Sed sit amet porttitor odio, vitae varius quam. Etiam vitae eros vulputate, commodo elit sit amet, convallis nisl. Nunc mattis orci dui, vitae pharetra tortor viverra id. Morbi varius ex ac consequat hendrerit. Curabitur vitae rutrum odio.</p>
+
+<p>Vestibulum et dolor sem. Vivamus at nisl vitae ligula varius tempus. Ut tincidunt nisi ac lorem tincidunt mollis. In ut magna vitae tortor tristique posuere. Quisque ut libero eget augue aliquam mattis. Nunc vitae aliquam ex. Nulla mollis consequat eros, sit amet rutrum massa. Vivamus aliquet tortor quis justo eleifend pretium. Nunc sodales, lectus id vulputate placerat, massa nisl ultrices enim, hendrerit tristique dolor augue non sem. Sed lectus turpis, facilisis consequat ultricies vel, consequat eu eros. Phasellus finibus ligula libero, sit amet suscipit velit euismod ac. Aenean quis libero vitae mi tincidunt pharetra.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[In the Beginning]]></title>
+    <link href="http://Ixirim.github.io/blog/2014/09/14/in-the-beginning/"/>
+    <updated>2014-09-14T09:35:42+08:00</updated>
+    <id>http://Ixirim.github.io/blog/2014/09/14/in-the-beginning</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve always wanted to write more. This seems like a good way to start. Hopefully I&rsquo;ll be able to write often and document my work while at the same time play around with <a href="http://octopress.org/">Octopress</a>, a static site generator that I&rsquo;m using but I&rsquo;ll talk about the tech behind this site in another post later. I&rsquo;m probably going to try out <a href="https://github.com/natew/obtvse2">Obtvse</a> when I can and see how that&rsquo;ll help with my writing. If you haven&rsquo;t already noticed, I  like <a href="https://www.google.com/design/">Google&rsquo;s Material Design Guidelines</a> and thats what guiding the site&rsquo;s design. The site isn&rsquo;t done yet, there&rsquo;s still some rough edges and I&rsquo;m still coding in some features that&rsquo;ll mostly just help me automate stuff. Automation is really important to me, I&rsquo;m efficient that way (some people say I&rsquo;m just being lazy). So I guess that&rsquo;s it for the opening post. Mind the Lorem Ipsum.</p>
+]]></content>
+  </entry>
   
 </feed>
